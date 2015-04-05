@@ -2,7 +2,7 @@
     <nav class="nav" role="navigation">
         <div class="wrap">
             <h1>
-                <a href="/"></a>
+                <a href="/">Master Builder</a>
             </h1>
         </div>
 
